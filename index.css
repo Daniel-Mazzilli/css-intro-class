@@ -1,0 +1,13 @@
+body {
+  background-color: orange;
+}
+h1 {
+  color: darkblue;
+  font-size: 32px;
+}
+img {
+  height: 350px;
+  width: 350px;
+  border: 8px solid white;
+  border-radius: 50%;
+}
